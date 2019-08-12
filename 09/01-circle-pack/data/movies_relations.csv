@@ -1,0 +1,614 @@
+﻿node_id,node,parent,revenue,film_id
+0,root,,NA,NA
+1,disney,root,NA,NA
+2,fox,root,NA,NA
+3,paramount,root,NA,NA
+4,sony,root,NA,NA
+5,universal,root,NA,NA
+6,warner,root,NA,NA
+7,Pirates of the Caribbean: The Curse of the Black Pearl,disney,769162691,22
+8,Jarhead,universal,105887137,25
+9,The Simpsons Movie,fox,546426009,35
+10,Pirates of the Caribbean: Dead Man's Chest,disney,1134195026,58
+11,Walk the Line,fox,202521581,69
+12,Million Dollar Baby,warner,245979467,70
+13,War of the Worlds,paramount,656994998,74
+14,Miami Vice,universal,173814548,82
+15,Gladiator,universal,576250686,98
+16,Snatch,sony,103881629,107
+17,Charlie and the Chocolate Factory,warner,524918267,118
+18,"O Brother, Where Art Thou?",universal,89814198,134
+19,Donnie Darko,fox,1566922,141
+20,"Crouching Tiger, Hidden Dragon",sony,265003846,146
+21,The Dark Knight,warner,986222252,155
+22,Ocean's Eleven,warner,550831453,161
+23,Ocean's Twelve,warner,411635652,163
+24,The Interpreter,universal,180821137,179
+25,Minority Report,fox,430184964,180
+26,The Good German,warner,6329626,182
+27,Star Trek: Nemesis,paramount,80354547,201
+28,Indiana Jones and the Kingdom of the Crystal Skull,paramount,784155917,217
+29,Syriana,warner,102728775,231
+30,About a Boy,universal,154935601,245
+31,King Kong,universal,603516006,254
+32,Batman Begins,warner,415486623,272
+33,Pirates of the Caribbean: At World's End,disney,997970603,285
+34,Terminator 3: Rise of the Machines,warner,510809217,296
+35,Ocean's Thirteen,warner,322663809,298
+36,Bruce Almighty,universal,570261685,310
+37,Catwoman,warner,93611017,314
+38,Mystic River,warner,183057072,322
+39,The Devil Wears Prada,fox,347552401,350
+40,Inside Man,universal,199278617,388
+41,AVP: Alien vs. Predator,fox,195076433,395
+42,Capote,sony,53319014,398
+43,Garden State,fox,30535831,401
+44,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",disney,821667244,411
+45,Ice Age,fox,462885880,425
+46,The Day After Tomorrow,fox,621549873,435
+47,Aliens vs Predator: Requiem,fox,42973750,440
+48,A Beautiful Mind,universal,383187068,453
+49,Bend It Like Beckham,fox,91974866,455
+50,Shaft,paramount,134274806,479
+51,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,fox,280329392,496
+52,Poseidon,warner,193740716,503
+53,Love Actually,universal,285598110,508
+54,Terminator Salvation,warner,374987418,534
+55,Constantine,warner,259954776,561
+56,2 Fast 2 Furious,universal,277842618,584
+57,"Monsters, Inc.",disney,685116165,585
+58,Silent Hill,sony,104606610,588
+59,The Hours,paramount,49657323,590
+60,The Matrix Reloaded,warner,869209084,604
+61,The Matrix Revolutions,warner,497429697,605
+62,Munich,universal,143043072,612
+63,The Passion of the Christ,fox,709662019,615
+64,The Last Samurai,warner,535196121,616
+65,Bridget Jones's Diary,universal,344163128,634
+66,A.I. Artificial Intelligence,warner,286225298,644
+67,Troy,warner,568033634,652
+68,Harry Potter and the Philosopher's Stone,warner,1188663577,671
+69,Harry Potter and the Chamber of Secrets,warner,1044236078,672
+70,Harry Potter and the Prisoner of Azkaban,warner,901943435,673
+71,Harry Potter and the Goblet of Fire,warner,979115647,674
+72,Harry Potter and the Order of the Phoenix,warner,972422163,675
+73,Meet the Fockers,universal,586277068,693
+74,Shaun of the Dead,universal,34505195,747
+75,V for Vendetta,warner,143221349,752
+76,Harry Potter and the Half-Blood Prince,warner,936552673,767
+77,From Hell,fox,90606361,768
+78,Little Miss Sunshine,fox,106672631,773
+79,The Omen,fox,126853630,806
+80,Moulin Rouge!,fox,219642235,824
+81,Underworld: Evolution,sony,121250301,834
+82,Enemy at the Gates,paramount,118853170,853
+83,Planet of the Apes,fox,440671904,869
+84,The Flintstones in Viva Rock Vegas,universal,74968561,889
+85,Cars,disney,491694426,920
+86,Cinderella Man,universal,120509436,921
+87,Ice Age: The Meltdown,fox,714361864,950
+88,Mission: Impossible II,paramount,687999795,955
+89,Mission: Impossible III,paramount,424273147,956
+90,The Prestige,warner,117366153,1124
+91,Dreamgirls,paramount,165800977,1125
+92,Babel,paramount,144033600,1164
+93,The Good Shepherd,universal,64108993,1247
+94,Letters from Iwo Jima,warner,73488181,1251
+95,Notes on a Scandal,fox,52938436,1259
+96,Street Kings,fox,65913555,1266
+97,Meet the Robinsons,disney,178071250,1267
+98,300,warner,452241315,1271
+99,TMNT,warner,100542809,1273
+100,Blood Diamond,warner,182858846,1372
+101,The Fountain,warner,16289185,1381
+102,The Departed,warner,310169704,1422
+103,Superman Returns,warner,416232589,1452
+104,Kingdom of Heaven,fox,235103541,1495
+105,The Last King of Scotland,fox,51116767,1523
+106,Pathfinder,fox,32883596,1534
+107,Spy Game,universal,174134213,1535
+108,Changing Lanes,paramount,114022710,1537
+109,Collateral,paramount,248158210,1538
+110,28 Weeks Later,fox,67117400,1562
+111,Live Free or Die Hard,fox,397515916,1571
+112,The Holiday,universal,207782639,1581
+113,School of Rock,paramount,153245522,1584
+114,Night at the Museum,fox,614759976,1593
+115,Meet the Parents,universal,410109546,1597
+116,Hitman,fox,102711069,1620
+117,The Island,warner,180085512,1635
+118,Bedazzled,fox,112173353,1636
+119,Ray,universal,141098219,1677
+120,The Reaping,warner,65584255,1683
+121,Hostel,sony,91247720,1690
+122,Hostel: Part II,sony,36918292,1691
+123,Captain Corelli's Mandolin,universal,75567423,1722
+124,The Incredible Hulk,universal,161567802,1724
+125,Iron Man,paramount,588241427,1726
+126,The Mummy Returns,universal,528596854,1734
+127,The Mummy: Tomb of the Dragon Emperor,universal,393806843,1735
+128,Next,paramount,79475912,1738
+129,An Inconvenient Truth,paramount,50358697,1781
+130,Stuck on You,fox,39637501,1792
+131,Phone Booth,fox,116728354,1817
+132,"You, Me and Dupree",universal,138410435,1819
+133,The Next Best Thing,paramount,30730819,1831
+134,World Trade Center,paramount,172574806,1852
+135,Transformers,paramount,735587454,1858
+136,Vanilla Sky,paramount,248565415,1903
+137,Sweet November,warner,80771102,1921
+138,Hulk,universal,288434133,1927
+139,Alexander,warner,189151190,1966
+140,Fantastic 4: Rise of the Silver Surfer,fox,299587119,1979
+141,A Mighty Heart,paramount,20194405,1988
+142,Lara Croft: Tomb Raider,paramount,333269166,1995
+143,Lara Croft Tomb Raider: The Cradle of Life,paramount,183780218,1996
+144,Training Day,warner,127450296,2034
+145,Along Came a Spider,paramount,128395732,2043
+146,The Lake House,warner,122215119,2044
+147,"I, Robot",fox,395908305,2048
+148,National Treasure,disney,392837115,2059
+149,Ratatouille,disney,646465207,2062
+150,The Whole Nine Yards,warner,135281812,2069
+151,X-Men Origins: Wolverine,fox,377802253,2080
+152,Romeo Must Die,warner,114832344,2085
+153,Solaris,fox,35736710,2103
+154,"Me, Myself & Irene",fox,186977511,2123
+155,The Perfect Storm,warner,410904322,2133
+156,The Time Machine,warner,149436196,2135
+157,Kiss of the Dragon,fox,78395992,2140
+158,Unfaithful,fox,143090575,2251
+159,Stardust,paramount,140796818,2270
+160,Beowulf,paramount,201111286,2310
+161,The Chronicles of Narnia: Prince Caspian,disney,418328331,2454
+162,Eragon,fox,266766685,2486
+163,The Bourne Identity,universal,256923161,2501
+164,The Bourne Supremacy,universal,328940514,2502
+165,The Bourne Ultimatum,universal,459930789,2503
+166,The Aviator,warner,115747756,2567
+167,What Lies Beneath,fox,194284555,2655
+168,Evan Almighty,universal,179307984,2698
+169,American Pie 2,universal,349841754,2770
+170,Rumor Has It...,warner,97586960,2800
+171,License to Wed,warner,71852605,2959
+172,88 Minutes,sony,17966710,3489
+173,U-571,universal,160942409,3536
+174,I Now Pronounce You Chuck & Larry,universal,192905912,3563
+175,No Reservations,warner,96001921,3638
+176,Flags of Our Fathers,warner,70520777,3683
+177,Corpse Bride,warner,127304609,3933
+178,What Women Want,paramount,464304879,3981
+179,Team America: World Police,paramount,57587254,3989
+180,Road to Perdition,fox,217029918,4147
+181,The Kid,disney,87104429,4244
+182,Atonement,universal,134259712,4347
+183,Pride & Prejudice,universal,131598481,4348
+184,The Kingdom,universal,90006247,4349
+185,The Brave One,warner,72262610,4413
+186,Seabiscuit,universal,174187640,4464
+187,The Assassination of Jesse James by the Coward Robert Ford,warner,15238126,4512
+188,Elizabeth: The Golden Age,universal,76893508,4517
+189,Enchanted,disney,349838317,4523
+190,The Darjeeling Limited,fox,25249275,4538
+191,Armored,sony,22942221,4597
+192,The Sum of All Fears,paramount,231802875,4614
+193,Hot Fuzz,universal,85503250,4638
+194,Southland Tales,universal,399631,4723
+195,Layer Cake,sony,13475734,4836
+196,The Invasion,warner,15653739,4858
+197,Leatherheads,universal,41767749,4942
+198,The Legend of Bagger Vance,fox,48944422,4958
+199,Knocked Up,universal,227064559,4964
+200,Gothika,warner,165726313,4970
+201,American Gangster,universal,273782851,4982
+202,August Rush,warner,67937907,5123
+203,Sky Captain and the World of Tomorrow,paramount,65909018,5137
+204,Kiss Kiss Bang Bang,warner,17146816,5236
+205,Fred Claus,warner,100525241,5375
+206,Battlefield Earth,warner,26946406,5491
+207,Space Cowboys,warner,161067126,5551
+208,The Sentinel,fox,83507796,5820
+209,Showtime,warner,93894012,5851
+210,I Know Who Killed Me,sony,9973718,5857
+211,Into the Wild,paramount,58267743,5915
+212,Alvin and the Chipmunks,fox,371539941,6477
+213,I Am Legend,warner,601827941,6479
+214,The Dukes of Hazzard,warner,121832704,6519
+215,Charlie Wilson's War,universal,122350547,6538
+216,27 Dresses,fox,163956034,6557
+217,National Treasure: Book of Secrets,disney,470239001,6637
+218,Failure to Launch,paramount,138785480,6877
+219,The 40 Year Old Virgin,universal,120343448,6957
+220,The Weather Man,paramount,13532343,6963
+221,Something's Gotta Give,warner,312532850,6964
+222,Australia,fox,50376072,6972
+223,No Country for Old Men,paramount,176312577,6977
+224,Van Helsing,universal,342888955,7131
+225,Cloverfield,paramount,174703054,7191
+226,Coach Carter,paramount,86821017,7214
+227,Rebound,fox,18576713,7233
+228,Matchstick Men,warner,76451627,7270
+229,Juno,fox,237926356,7326
+230,There Will Be Blood,paramount,79382315,7345
+231,Sahara,paramount,132354194,7364
+232,Titan A.E.,fox,46039017,7450
+233,Speed Racer,warner,93649573,7459
+234,Open Season,sony,209998458,7484
+235,Shooter,paramount,100635351,7485
+236,Taare Zameen Par,disney,29230370,7508
+237,Running with Scissors,sony,7228511,7510
+238,Idiocracy,fox,527157,7512
+239,Smokin' Aces,universal,61107676,7516
+240,"10,000 BC",warner,271347820,7840
+241,Black Snake Moan,paramount,11668358,7874
+242,Behind Enemy Lines,fox,111691162,8007
+243,Suspect Zero,paramount,14814443,8080
+244,Untraceable,sony,33232708,8090
+245,‚àö√úon Flux,paramount,57160915,8202
+246,The Spiderwick Chronicles,paramount,166113491,8204
+247,Disturbia,paramount,123037763,8271
+248,American Wedding,universal,270754193,8273
+249,Four Brothers,paramount,101569341,8292
+250,Blindness,fox,19782412,8338
+251,Ice Age: Dawn of the Dinosaurs,fox,887739201,8355
+252,Cast Away,fox,533210525,8358
+253,Transformers: Revenge of the Fallen,paramount,837289806,8373
+254,How High,universal,38075750,8386
+255,The Exorcism of Emily Rose,sony,156656952,8643
+256,The Happening,fox,161263565,8645
+257,K-19: The Widowmaker,paramount,42169367,8665
+258,Fool's Gold,warner,113467295,8676
+259,Taken,fox,231390903,8681
+260,The League of Extraordinary Gentlemen,fox,210506479,8698
+261,The X Files: I Want to Believe,fox,67121488,8836
+262,Against the Ropes,paramount,7671037,8842
+263,Alfie,paramount,15153691,8849
+264,"Dude, Where‚Äö√Ñ√¥s My Car?",fox,90823586,8859
+265,Red Planet,warner,41507815,8870
+266,How the Grinch Stole Christmas,universal,428104198,8871
+267,Wanted,universal,254887233,8909
+268,Amelia,fox,19238207,8915
+269,Garfield,fox,228590081,8920
+270,Boogeyman,sony,75652923,8968
+271,The Marine,fox,23719727,8975
+272,Stop-Loss,paramount,11334197,8988
+273,Friends with Money,sony,14228194,8998
+274,Jackass: The Movie,paramount,76567573,9012
+275,Treasure Planet,disney,130520046,9016
+276,The Santa Clause 2,disney,205890118,9021
+277,What Happens in Vegas,fox,169464022,9029
+278,The Eye,paramount,57441851,9030
+279,Eight Below,disney,130912690,9036
+280,The Cave,sony,16501836,9042
+281,Tristan & Isolde,fox,30007801,9044
+282,The Four Feathers,paramount,35652637,9093
+283,Blue Crush,universal,61955588,9266
+284,The Longest Yard,paramount,211417368,9291
+285,John Tucker Must Die,fox,43518413,9293
+286,Monster House,sony,148750134,9297
+287,American Dreamz,universal,7905189,9310
+288,The Scorpion King,universal,198573609,9334
+289,Transporter 2,fox,93644941,9335
+290,The Core,paramount,86998920,9341
+291,Nacho Libre,paramount,85355724,9353
+292,One Hour Photo,fox,62410463,9357
+293,Starsky & Hutch,warner,196207931,9384
+294,Thank You for Smoking,fox,26932261,9388
+295,Zoolander,paramount,73615211,9398
+296,Surf's Up,sony,154479024,9408
+297,DodgeBall: A True Underdog Story,fox,190930233,9472
+298,Daredevil,fox,211325401,9480
+299,Johnny English,universal,188671067,9486
+300,Man on Fire,fox,149663815,9509
+301,Red Dragon,universal,249589676,9533
+302,Timeline,paramount,51424846,9562
+303,Blood Work,warner,31310235,9573
+304,Big Momma's House,fox,219045870,9600
+305,Metropolis,sony,116407499,9606
+306,The Fast and the Furious: Tokyo Drift,universal,168659779,9615
+307,The Order,fox,13480262,9616
+308,Paycheck,paramount,112801789,9620
+309,Elizabethtown,paramount,56410051,9621
+310,Scooby-Doo,warner,330886568,9637
+311,Cheaper by the Dozen 2,fox,141751458,9641
+312,Ghost Ship,warner,81412516,9645
+313,The Triplets of Belleville,sony,1737086,9662
+314,Sideways,fox,123870680,9675
+315,The Black Dahlia,universal,52269665,9676
+316,Children of Men,universal,74459035,9693
+317,Lady in the Water,warner,44871941,9697
+318,North Country,warner,28400156,9701
+319,Swordfish,warner,178437461,9705
+320,The Wicker Man,warner,41247507,9708
+321,A Good Year,fox,44769351,9726
+322,Fantastic Four,fox,367035269,9738
+323,Hannibal,universal,432011340,9740
+324,Firewall,warner,89987807,9754
+325,Epic Movie,fox,92673167,9760
+326,The Break-Up,universal,218183722,9767
+327,Lords of Dogtown,sony,14890996,9787
+328,Accepted,universal,40780374,9788
+329,The Hills Have Eyes,fox,75251107,9792
+330,The Fast and the Furious,universal,251476159,9799
+331,Bridget Jones: The Edge of Reason,universal,45454461,9801
+332,The Incredibles,disney,713922976,9806
+333,Let's Go to Prison,universal,4962053,9809
+334,United 93,universal,81756358,9829
+335,The Phantom of the Opera,warner,175492761,9833
+336,Forgetting Sarah Marshall,universal,105724382,9870
+337,The Princess Diaries,disney,201149076,9880
+338,Collateral Damage,warner,95200270,9884
+339,Shallow Hal,fox,171724325,9889
+340,The Stepford Wives,paramount,116113853,9890
+341,Man of the Year,universal,44128983,9895
+342,Rat Race,paramount,104018721,9896
+343,The Producers,sony,41761481,9899
+344,The Wild,disney,40405642,9904
+345,The Ant Bully,warner,58556804,9906
+346,Barnyard,paramount,77079707,9907
+347,Two for the Money,universal,33093218,9910
+348,The Skeleton Key,universal,101647236,9913
+349,How to Lose a Guy in 10 Days,paramount,209192711,9919
+350,Ultraviolet,sony,33581486,9920
+351,Robots,fox,291242913,9928
+352,Analyze That,warner,65659878,9932
+353,Elektra,fox,64186300,9947
+354,The Covenant,sony,40015457,9954
+355,The Good Girl,fox,20553716,9962
+356,Premonition,sony,89294907,9963
+357,The Messengers,sony,1177549,9966
+358,Curious George,universal,75897124,9975
+359,Kicking & Screaming,universal,62285771,9981
+360,Chicken Little,disney,343630666,9982
+361,Charlotte's Web,paramount,154096412,9986
+362,Ghosts of Mars,sony,17045776,10016
+363,The Pacifier,disney,126247919,10022
+364,Honey,universal,73325235,10028
+365,Dragonfly,universal,63548762,10052
+366,When a Stranger Calls,sony,72780342,10053
+367,Get Rich or Die Tryin',paramount,50755149,10060
+368,House of Wax,warner,76310252,10066
+369,The Shaggy Dog,disney,66052418,10067
+370,Cry_Wolf,universal,10914412,10092
+371,The Rundown,universal,94351164,10159
+372,The Rocker,fox,8637418,10186
+373,The Princess and the Frog,disney,267045765,10198
+374,The Day the Earth Stood Still,fox,239437115,10200
+375,Yes Man,warner,232140941,10201
+376,Bedtime Stories,disney,218667460,10202
+377,A Walk to Remember,warner,50270719,10229
+378,Vacancy,sony,36882706,10294
+379,Fantastic Mr. Fox,fox,46422010,10315
+380,Freaky Friday,disney,128949783,10330
+381,D-Tox,universal,7823794,10375
+382,Get Carter,warner,24093198,10461
+383,Rules of Engagement,paramount,89506007,10479
+384,102 Dalmatians,disney,227878036,10481
+385,Death Race,universal,72706342,10483
+386,Bride Wars,fox,117273411,10521
+387,Sherlock Holmes,warner,524028679,10528
+388,Where the Heart Is,fox,42573562,10564
+389,Dinosaur,disney,446061312,10567
+390,Peter Pan,universal,142921224,10601
+391,Cradle 2 the Grave,warner,66624050,10623
+392,Mean Girls,paramount,148227016,10625
+393,Remember the Titans,disney,169957809,10637
+394,Pay It Forward,warner,69137699,10647
+395,You Don't Mess with the Zohan,sony,198955835,10661
+396,WALL¬¨‚àëE,disney,514483810,10681
+397,Glitter,fox,6384807,10696
+398,The Squid and the Whale,sony,12031277,10707
+399,Looney Tunes: Back in Action,warner,80193561,10715
+400,Torque,warner,54274323,10718
+401,Down with Love,fox,23887616,10720
+402,The Haunted Mansion,disney,213362605,10756
+403,Without a Paddle,paramount,79349711,10762
+404,Dr. Dolittle 2,fox,213649197,10808
+405,Atlantis: The Lost Empire,disney,225719752,10865
+406,Quills,fox,8758122,10876
+407,Exit Wounds,warner,97996478,10877
+408,Cats & Dogs,warner,113601524,10992
+409,Stuart Little 2,sony,203786798,10996
+410,Cheaper by the Dozen,fox,222876373,11007
+411,Narc,paramount,15405110,11022
+412,Thirteen,fox,5382398,11023
+413,Taxi,fox,41413754,11045
+414,Taking Lives,warner,75444478,11081
+415,Hide and Seek,fox,138883200,11096
+416,The Princess Diaries 2: Royal Engagement,disney,108429685,11130
+417,Confessions of a Teenage Drama Queen,disney,34017265,11132
+418,We Are Marshall,warner,46598503,11170
+419,Club Dread,fox,5800765,11217
+420,Anacondas: The Hunt for the Blood Orchid,sony,80901558,11237
+421,A Cinderella Story,warner,79889625,11247
+422,Hellboy II: The Golden Army,universal,157460502,11253
+423,Meet Dave,fox,49725564,11260
+424,Nanny McPhee,universal,132788929,11283
+425,Hearts in Atlantis,warner,29292738,11313
+426,Public Enemies,universal,214699159,11322
+427,The Informant!,warner,35421545,11323
+428,The Score,paramount,86464622,11371
+429,The Art of War,warner,37739968,11398
+430,Fever Pitch,fox,55986173,11431
+431,Herbie Fully Loaded,disney,73280549,11451
+432,Domestic Disturbance,paramount,65926172,11456
+433,Sky High,disney,95452790,11459
+434,The Skulls,universal,44157509,11478
+435,Lilo & Stitch,disney,174981743,11544
+436,High Crimes,fox,76605217,11560
+437,Big Momma's House 2,fox,150564328,11565
+438,The Life of David Gale,universal,45944415,11615
+439,Mamma Mia!,universal,598710206,11631
+440,Must Love Dogs,warner,64547436,11648
+441,Get Smart,warner,227663976,11665
+442,Land of the Dead,universal,51928353,11683
+443,The Emperor's New Groove,disney,210150257,11688
+444,Lemony Snicket's A Series of Unfortunate Events,paramount,237252993,11774
+445,Intolerable Cruelty,universal,139854747,11775
+446,White Noise,universal,103270978,11804
+447,Wimbledon,universal,47206300,11823
+448,Death Sentence,fox,17630196,11835
+449,The SpongeBob SquarePants Movie,paramount,158470151,11836
+450,Flight of the Phoenix,fox,23840838,11866
+451,Big Fat Liar,universal,64335329,11870
+452,Murder by Numbers,warner,68116592,11892
+453,Men of Honor,fox,60688145,11978
+454,Queen of the Damned,warner,55237167,11979
+455,Just Married,fox,120709115,12090
+456,Jackass Number Two,paramount,77459291,12094
+457,Nutty Professor II: The Klumps,universal,154098538,12107
+458,Body of Lies,warner,112953710,12113
+459,3000 Miles to Graceland,warner,22995467,12138
+460,The Love Guru,paramount,41271325,12177
+461,Nick and Norah's Infinite Playlist,sony,32878931,12182
+462,Horton Hears a Who!,fox,300506992,12222
+463,Undercover Brother,universal,49969101,12277
+464,Ponyo,disney,184057457,12429
+465,Underworld: Rise of the Lycans,sony,93432873,12437
+466,Rock Star,warner,20579833,12508
+467,Jimmy Neutron: Boy Genius,paramount,98913969,12589
+468,Osmosis Jones,warner,16542193,12610
+469,Serving Sara,paramount,20232742,12771
+470,Swept Away,sony,713055,12779
+471,The Secret Life of Bees,fox,37611798,12837
+472,Bolt,disney,315122371,13053
+473,Gran Torino,warner,277304685,13223
+474,Lakeview Terrace,sony,27281994,13279
+475,Bad News Bears,paramount,37855005,13341
+476,Ice Princess,disney,30884719,13374
+477,Antwone Fisher,fox,27895007,13435
+478,Star Trek,paramount,389455085,13475
+479,Welcome Home Roscoe Jenkins,universal,44528366,13490
+480,Alatriste,fox,24821846,13495
+481,Drumline,fox,68746135,13497
+482,City By The Sea,warner,26765644,13536
+483,Twisted,paramount,29220382,13572
+484,Sukiyaki Western Django,sony,2822758,13637
+485,The Game Plan,disney,153171161,13680
+486,Home on the Range,disney,119405394,13700
+487,The Santa Clause 3: The Escape Clause,disney,90559389,13767
+488,Tuck Everlasting,disney,22819454,13768
+489,Fast & Furious,universal,367777902,13804
+490,RockNRolla,warner,25405605,13809
+491,Quarantine,sony,40737705,13812
+492,Defiance,paramount,52547322,13813
+493,Race to Witch Mountain,disney,107923219,13836
+494,Sweeney Todd: The Demon Barber of Fleet Street,warner,156279152,13885
+495,Passengers,sony,1974093,13944
+496,ATL,warner,22881691,13960
+497,Wild Child,universal,22479174,13971
+498,Choke,fox,3780523,13973
+499,Dead Silence,universal,23363916,14001
+500,Justice League: The New Frontier,warner,5336298,14011
+501,Flicka,fox,22472393,14012
+502,Auto Focus,sony,2456156,14112
+503,Daddy Day Camp,sony,18900378,14144
+504,Aquamarine,fox,24866397,14191
+505,Miracle,disney,74742139,14292
+506,Romanzo criminale,warner,5269725,14375
+507,Whisper,universal,5430342,14397
+508,Beverly Hills Chihuahua,disney,148851489,14405
+509,I Think I Love My Wife,fox,13877225,14434
+510,The Manchurian Candidate,paramount,109577544,14462
+511,The Rookie,disney,91303723,14635
+512,G.I. Joe: The Rise of Cobra,paramount,302630178,14869
+513,The Jungle Book 2,disney,160021629,14873
+514,Clockstoppers,paramount,46853304,15028
+515,Extreme Ops,paramount,13053986,15074
+516,Street Fighter: The Legend of Chun-Li,fox,12990138,15268
+517,Role Models,universal,94238207,15373
+518,The Greatest Game Ever Played,disney,16762310,15487
+519,Paparazzi,fox,18883612,15644
+520,Kissing Jessica Stein,fox,12223793,15647
+521,The Tigger Movie,disney,57935547,15655
+522,Connie and Carla,universal,13027027,15673
+523,Abandon,paramount,12767978,15992
+524,Death Note,warner,29580649,16007
+525,Gods and Generals,warner,15242551,16072
+526,Serenity,universal,42738401,16320
+527,Rugrats in Paris: The Movie,paramount,128,16340
+528,Where the Wild Things Are,warner,99981232,16523
+529,Duplicity,universal,60913925,16558
+530,Return to Never Land,disney,133434962,16690
+531,The Namesake,fox,21434014,16727
+532,Welcome to Mooseport,fox,16236767,16784
+533,Planet 51,sony,104760935,16866
+534,Inglourious Basterds,universal,319301088,16869
+535,Drag Me to Hell,universal,92194131,16871
+536,State of Play,universal,88899404,16995
+537,Crossroads,paramount,74259529,17130
+538,12 Rounds,fox,17543541,17134
+539,The Soloist,universal,32123131,17332
+540,Obsessed,sony,74768280,17335
+541,Last Holiday,paramount,41817616,17379
+542,District 9,sony,210931939,17654
+543,The Adventures of Rocky & Bullwinkle,universal,44010030,17711
+544,Because of Winn-Dixie,fox,36755855,17880
+545,Fired Up!,sony,18928322,17927
+546,A Christmas Carol,disney,324661062,17979
+547,Gossip,warner,6440424,18041
+548,Hannah Montana: The Movie,disney,157521326,18126
+549,Land of the Lost,universal,68770356,18162
+550,Night at the Museum: Battle of the Smithsonian,fox,417149223,18360
+551,The Lizzie McGuire Movie,disney,65248150,18736
+552,The Hangover,warner,459815714,18785
+553,The Boat That Rocked,universal,36810559,18947
+554,Johnson Family Vacation,fox,35814815,19084
+555,Whatever Works,sony,35139472,19265
+556,Recess: School's Out,disney,54833102,19405
+557,G-Force,disney,293630956,19585
+558,"I Love You, Beth Cooper",fox,15387813,19840
+559,Couples Retreat,universal,171828926,19899
+560,(500) Days of Summer,fox,60891353,19913
+561,Jennifer's Body,fox,31553139,19994
+562,Avatar,fox,2787965087,19995
+563,Chandni Chowk To China,warner,9613961,20002
+564,Slackers,sony,7790093,20009
+565,Catch That Kid,fox,19371465,20483
+566,Swimfan,fox,41055651,20616
+567,Ready to Rumble,warner,15597254,20697
+568,Funny People,universal,61629645,20829
+569,Aliens in the Attic,fox,58041784,20856
+570,Hardball,paramount,48715974,20857
+571,Levity,sony,245201,21052
+572,Tupac: Resurrection,paramount,9280368,21525
+573,Capitalism: A Love Story,paramount,17434894,22074
+574,The Fighting Temptations,paramount,35259128,22309
+575,Whiteout,warner,12204898,22787
+576,Cloudy with a Chance of Meatballs,sony,242965964,22794
+577,The Fourth Kind,universal,42258738,22824
+578,The Box,warner,33330444,22825
+579,Ninja Assassin,warner,60456748,22832
+580,It's Complicated,universal,219103655,22897
+581,Up in the Air,paramount,163654843,22947
+582,Old Dogs,disney,92056894,22949
+583,Invictus,warner,122233971,22954
+584,My Life in Ruins,fox,20817352,23049
+585,The Invention of Lying,warner,31909838,23082
+586,Alvin and the Chipmunks: The Squeakquel,fox,443140005,23398
+587,We Don't Live Here Anymore,warner,2375841,23601
+588,Monkeybone,fox,6644936,23685
+589,All About Steve,fox,40101828,23706
+590,Cirque du Freak: The Vampire's Assistant,universal,28139961,24418
+591,Ghosts of the Abyss,disney,20021540,24982
+592,Shorts,warner,28987945,25132
+593,Crazy Heart,fox,39462438,25196
+594,Love Happens,universal,36129668,25643
+595,Post Grad,fox,6408658,25704
+596,Summer Catch,warner,23959865,26602
+597,Micmacs,warner,13985234,27936
+598,Case 39,paramount,29015452,28355
+599,Possession,warner,12046611,30072
+600,Sidewalks of New York,paramount,2924513,31016
+601,Marci X,paramount,1960276,32316
+602,Max Keeble's Big Move,disney,21014476,34549
+603,X-Men,fox,370336947,36657
+604,X2,fox,479025578,36658
+605,X-Men: The Last Stand,fox,489867835,36668
+606,Tales from Earthsea,disney,72159862,37933
+607,Super Troopers,fox,22806437,39939
+608,High Security Vacation,fox,17575399,41978
+609,The Company,sony,2660400,52036
+610,The Powerpuff Girls Movie,warner,13683138,59387
+611,Isn't She Great,universal,3842173,75531
+612,"Me, You, Them",sony,2587896,82103

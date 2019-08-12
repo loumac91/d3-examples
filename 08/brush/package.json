@@ -1,0 +1,10 @@
+{
+  "name": "scatter-plot",
+  "version": "1.0.0",
+  "description": "Making a scatter plot with D3",
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^5",
+    "d3-array": "^2"
+  }
+}

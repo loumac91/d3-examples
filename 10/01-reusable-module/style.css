@@ -1,0 +1,35 @@
+svg {
+  border: 1px solid #ccc;
+}
+
+body,
+text {
+  font-family: 'Avenir', sans-serif;
+}
+
+text {
+  font-size: 0.8em;
+  fill: white;
+  dominant-baseline: middle;
+}
+
+rect {
+  fill: #10223d;
+}
+
+button {
+  outline: none;
+  color: #555;
+  border-color: #eee;
+  background: #fefefe;
+  padding: 3px 10px;
+  font-family: Avenir;
+  transition: all 200ms;
+  cursor: pointer;
+  margin-bottom: 1em;
+}
+
+button:hover {
+  background: #e7e7e7;
+}
+

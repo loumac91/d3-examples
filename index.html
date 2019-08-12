@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>Loading D3</title>
+        <meta name="viewport" content="width=device-width,initial-scale=1" />
+        <script src="//unpkg.com/d3"></script>
+
+        <style type="text/css">
+            body {
+                font-family: Avenir, sans-serif;
+            }
+            svg {
+                border: 1px solid #bbb;
+            }
+        </style>
+    </head>
+    <body>        
+        <script>
+            const svg = d3.select('body')
+                          .append('svg')
+                          .attr('width', 500)
+                          .attr('height', 300);
+
+            const lolli = svg.append('g')
+                             .attr('transform', 'translate(100, 100)');
+            
+            lolli.append('line').attr('x2', 200).style('stroke', 'black');
+            lolli.append('circle').attr('cx', 200).attr('r', 3);
+            lolli.append('text').attr('y', -10).text('Lolli');
+        </script>
+    </body>
+</html>

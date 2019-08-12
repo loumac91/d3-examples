@@ -1,0 +1,14 @@
+text {
+  font-family: 'Avenir', sans-serif;
+  fill: #777;
+  dominant-baseline: middle;
+}
+
+circle {
+  fill: #aaa;
+}
+
+path {
+  fill: none;
+  stroke: #ccc;
+}
